@@ -1,14 +1,14 @@
             <div class="top-row">
-            	<h1 class="aligncenter">Our experience is the base for <br>your innovations.</h1>
+            	<h1 class="aligncenter">Nuestra experiencia es la base <br>para su innovación.</h1>
                 <div class="wrapper">
                 	<div class="grid_5 prefix_1 alpha">
                     	<div class="wrapper">
                         	<span class="dropcap color-1">A.</span>
                             <div class="extra-wrap">
                             	<strong class="str-1 color-1">
-                                	Vivamus hendrerit <br>mauris ut dui gravida ut viverra lectus tincidunt cras mattis.
+                                	Recursos <br>Nosotros le proveemos el recurso necesario para comenzar a gestionar sus clases en línea.
                                 </strong>
-                                <a href="#" class="link">read more</a>
+                                <a href="#" class="link">ver más</a>
                             </div>
                         </div>
                     </div>
@@ -16,27 +16,27 @@
                     	<span class="dropcap color-2">B.</span>
                             <div class="extra-wrap">
                             <strong class="str-1 color-2">
-                                Cras mattis tempor <br>eros nec tristique sed sed felis arcu vel vehicula augue. 
+                                Maestros <br>Proveemos el recurso mas utilizado y conocido en este ambiente, es decir moodle, cualquier duda o sugerecia estamos a sus ordenes. 
                             </strong>
-                            <a href="#" class="link">read more</a>
+                            <a href="#" class="link">ver más</a>
                         </div>
                     </div>
                     <div class="grid_5">
                     	<span class="dropcap color-3">C.</span>
                         <div class="extra-wrap">
                             <strong class="str-1 color-3">
-                                Sed sed felis arcu, vel vehicula maecenas faucibus sagittis cursus fusce tincidunt. 
+                                Alumnos <br>Los mas beneficiados, este espacio :) queremos ofrecerles un servicio que exploten para su aprendizaje, sean bienvenidos. 
                             </strong>
-                            <a href="#" class="link">read more</a>
+                            <a href="#" class="link">ver más</a>
                         </div>
                     </div>
                     <div class="grid_7 suffix_1 omega">
                     	<span class="dropcap color-4">D.</span>
                         <div class="extra-wrap">
                             <strong class="str-1 color-4">
-                                Cras mattis tempor eros nec tristique. Sed sed felis arcu, vel vehicula augue. Maecenas faucibus cursus. Fusce tincidunt tellus eget tristique. cursus.
+                                Solicitar el recurso es totalmente gratuito, por el momento si lo requiere escribanos a contacto@clasesenlinea.mx
                             </strong>
-                            <a href="#" class="link">read more</a>
+                            <a href="#" class="link">ver más</a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                         </dd>
                     </dl>
                     <div class="alignright">
-                        <a href="#" class="link">read more</a>
+                        <a href="#" class="link">ver más</a>
                     </div>
                 </article>
             </div>
