@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
         <title><?php echo $titulo; ?></title>
         <meta charset="utf-8">
-        <meta name="description" content="Your description">
-        <meta name="keywords" content="Your keywords">
-        <meta name="author" content="Your name">
+        <meta name="description" content="Clases en Línea, es un recurso gratuito para organizaciones educativas o docentes de cualquier nivel académico que deseen gestionar actividades educativas en línea con sus alumnos.">
+        <meta name="keywords" content="clases, academia, educación, maestro, maestra, escuela, cursos">
+        <meta name="author" content="Clases en Línea">
         <link rel="stylesheet" href="css/style.css">
         <script src="js/jquery-1.7.1.min.js"></script>
         <script src="js/superfish.js"></script>
@@ -56,29 +56,28 @@
                     src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
             <div class="inner">
-                <h1 class="logo"><a href="home.html">Pet clinic</a></h1>
+                <h1 class="logo"><a href="inicio">Clases en Línea</a></h1>
             </div>
             <nav>
                 <ul class="sf-menu">
-                    <li class="current"><a href="index.html">home</a></li>
-                    <li><a href="about.html">nosotros</a></li>
-                    <li>
-                        <a href="services.html">servicios</a>
+                    <li class="<?php echo ((isset($menu)) && $menu == 'inicio') ? 'current' : ''; ?>"><a href="inicio">inicio</a></li>
+                    <li class="<?php echo ((isset($menu)) && $menu == 'nosotros') ? 'current' : ''; ?>"><a href="nosotros">nosotros</a></li>
+                    <li class="<?php echo ((isset($menu)) && $menu == 'servicios') ? 'current' : ''; ?>">
+                        <a href="servicios">servicios</a>
                         <ul>
-                            <li><a href="#">Maecenas faucibus</a></li>
-                            <li><a href="#">Fusce tincidunt</a></li>
+                            <li><a href="#">Para docentes</a></li>
+                            <li><a href="#">Para instituciones</a></li>
+                            <li><a href="#">¿Quienes estan dentro?</a></li>
                             <li>
-                                <a href="#">tempor eros</a>
+                                <a href="#">Otros...</a>
                                 <ul>
-                                    <li><a href="#">ut viverra</a></li>
-                                    <li><a href="#">hendrerit mauris</a></li>
+                                    <li><a href="#">Material didactico</a></li>
+                                    <li><a href="#">Directorio</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">mauris ut du</a></li>
                         </ul>
                     </li>
-                    <li><a href="products.html">productos</a></li>
-                    <li><a href="contacts.html">contacto</a></li>
+                    <li class="<?php echo ((isset($menu)) && $menu == 'contacto') ? 'current' : ''; ?>"><a href="contacto">contacto</a></li>
                 </ul>
                 <div class="clear"></div>
             </nav>
@@ -87,9 +86,9 @@
                 ?>
                 <div class = "slider-container">
                     <div class = "mp-slider">
-                        <div><img src = "images/slide-3.png" alt = ""><a href = "#">read more</a></div>
-                        <div><img src = "images/slide-2.png" alt = ""><a href = "#">read more</a></div>
-                        <div><img src = "images/slide-1.png" alt = ""><a href = "#">read more</a></div>
+                        <div><img src = "images/slide-3.png" alt = ""><a href = "#">ver mas</a></div>
+                        <div><img src = "images/slide-2.png" alt = ""><a href = "#">ver mas</a></div>
+                        <div><img src = "images/slide-1.png" alt = ""><a href = "#">ver mas</a></div>
                     </div>
                 </div>
                 <?php
@@ -101,13 +100,13 @@
             ?>
         </header>
         <!-- Content -->
-        <section id="content"><div class="ic">More Website Templates @ TemplateMonster.com - August 06, 2011!</div>
+        <section id="content"><div class="ic">Clases en Línea, el recurso gratuito para la educación.</div>
             <div class="container_24">
                 <div class="grid_24 content-border">
                     <div class="top-content-box">
                         <ul id="mp-pags-cont-extra">
-                            <li><a href="#">business strategy</a></li>
-                            <li><a href="#">marketing research</a></li>
-                            <li><a href="#">financial &amp; banking</a></li>
+                            <li><a href="#">¿Maestro?</a></li>
+                            <li><a href="#">¿Institución?</a></li>
+                            <li><a href="#">¿Alumno?</a></li>
                         </ul>
                     </div>

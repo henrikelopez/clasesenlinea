@@ -23,6 +23,7 @@ class Inicio extends CI_Controller {
     public function index() {
         $datos['titulo'] = 'Clases en Línea';
         $datos['espectacular'] = 'si';
+        $datos['menu'] = 'inicio';
 
         $this->load->view('header', $datos);
         $this->load->view('inicio');

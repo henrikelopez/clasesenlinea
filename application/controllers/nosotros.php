@@ -23,7 +23,8 @@ class Nosotros extends CI_Controller {
     public function index() {
         $datos['titulo'] = 'Clases en Línea - Nosotros';
         $datos['espectacular'] = 'no';
-
+        $datos['menu'] = 'nosotros';
+        
         $this->load->view('header', $datos);
         $this->load->view('inicio');
         $this->load->view('footer');
