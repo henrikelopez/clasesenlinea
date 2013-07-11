@@ -121,10 +121,10 @@
                         <img src="images/page2-img6.jpg" alt="">
                     </figure>
                     <div class="extra-wrap">
-                        <p class="p1">Vivamus hendrerit mauris ut dui gravida ut viverra lectus tincidunt.</p>
+                        <p class="p1">Vacante.</p>
                         <div class="author">
                             Thom Black
-                            <em>investor</em>
+                            <em>Eventos</em>
                         </div>
                     </div>
                     <div class="clear"></div>
