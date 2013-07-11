@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|license\.txt|robots\.txt|sitemap\.xml|.js|css|js|cache)
+#Configuracion para localhost
+#RewriteRule ^(.*)$ /clasesenlinea/index.php/$1 [L]
+#Configuracion para produccion
+RewriteRule ^(.*)$ /index.php/$1 [L]
+
