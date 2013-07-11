@@ -43,19 +43,19 @@
             </div>
             <div class="wrapper indent-top">
             	<article class="grid_23 prefix_1 alpha omega">
-                    <h2>Our services:</h2>
+                    <h2>Nuestros servicios:</h2>
                     <div class="wrapper">
                         <div class="grid_7 suffix_1 alpha">
                         	<dl class="def-list-1">
                             	<dt class="color-1">
-                                	Business licenses<br> &amp; Permits
+                                	Educación<br> &amp; Moodle
                                 </dt>
                                 <dd>
                                 	<p>
-                                    	<strong>Vivamus hendrerit mauris ut dui gravida ut viverra lectus tincidunt. </strong>Cras mattis tempor eros nec ristique. Sed sed felis arcu, vel vehicula augue. Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus.
+                                    	<strong>El mejor y mas usado. </strong> Nos sumamos a la mas grande comunidad para mejorar el servicio de educación en línea y ofrecerlo de la manera en que nació... GRATIS! :D
                                     </p>
                                     <div class="alignright">
-                                    	<a href="#" class="link">read more</a>
+                                    	<a href="#" class="link">ver más</a>
                                     </div>
                                 </dd>
                             </dl>
@@ -63,14 +63,14 @@
                         <div class="grid_7 suffix_1">
                         	<dl class="def-list-1">
                                 <dt class="color-2">
-                                    certificate of good <br>standing
+                                    Expandiendo <br>recursos
                                 </dt>
                                 <dd>
                                     <p>
-                                       <strong>Cras mattis tempor eros nec ristique. Sed sed felis arcu, vel vehicula augue.</strong> Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus, orci mi. iaculis sem, sit amet dictum velit velit eu magna.
+                                       <strong>No reinventamos la rueda.</strong> Explotamos lo que esta funcionando, aumentando y ofreciendo un valor agregado, simple, rapido y atractivo.
                                     </p>
                                     <div class="alignright">
-                                        <a href="#" class="link">read more</a>
+                                        <a href="#" class="link">ver más</a>
                                     </div>
                                 </dd>
                              </dl>
@@ -79,14 +79,14 @@
                         	<div class="pad-3">
                             	<dl class="def-list-1">
                                     <dt class="color-3">
-                                        accept credit <br>cards
+                                        Creando <br>oportunidades
                                     </dt>
                                     <dd>
                                         <p>
-                                            <strong>Sed sed felis arcu, vel vehicula augue.</strong> Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus, orci mi. iaculis sem, sit amet dictum velit velit eu magna. Nunc viverra nisi sed orci. 
+                                            <strong>Para compra o venta.</strong> Todos valen oro, y ofrecer nuestros servicios junto a las capacidades de cada uno de ustedes es nuestra mejor inversión. 
                                         </p>
                                         <div class="alignright">
-                                            <a href="#" class="link">read more</a>
+                                            <a href="#" class="link">ver más</a>
                                         </div>
                                     </dd>
                                 </dl>
@@ -98,14 +98,14 @@
                         <div class="grid_7 suffix_1 alpha">
                         	<dl class="def-list-1">
                             	<dt class="color-1">
-                                	closing a business<br> (dissolution)
+                                	Capacitación<br> (continua)
                                 </dt>
                                 <dd>
                                 	<p>
-                                    	<strong>Vivamus hendrerit mauris ut dui gravida ut viverra lectus tincidunt. </strong>Cras mattis tempor eros nec ristique. Sed sed felis arcu, vel vehicula augue. Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus.
+                                    	<strong>Nos subimos al mismo barco. </strong>Claro! para estar actualizados que mejor que usar nuestra herramienta y capacitarnos con todos ustedes.
                                     </p>
                                     <div class="alignright">
-                                    	<a href="#" class="link">read more</a>
+                                    	<a href="#" class="link">ver más</a>
                                     </div>
                                 </dd>
                             </dl>
@@ -113,14 +113,14 @@
                         <div class="grid_7 suffix_1">
                         	<dl class="def-list-1">
                                 <dt class="color-2">
-                                    Bank account <br>resolutions
+                                    Todo en un<br>mismo lugar
                                 </dt>
                                 <dd>
                                     <p>
-                                       <strong>Cras mattis tempor eros nec ristique. Sed sed felis arcu, vel vehicula augue.</strong> Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus, orci mi. iaculis sem, sit amet dictum velit velit eu magna.
+                                       <strong>Todos concentrados.</strong> La mejor manera de poner atención es ordenar nuestra información y proveer las herramientas para ser consultados.
                                     </p>
                                     <div class="alignright">
-                                        <a href="#" class="link">read more</a>
+                                        <a href="#" class="link">ver más</a>
                                     </div>
                                 </dd>
                              </dl>
@@ -129,14 +129,14 @@
                         	<div class="pad-3">
                             	<dl class="def-list-1">
                                     <dt class="color-3">
-                                        Business <br>insurance
+                                        Reconocemos<br>tu esfuerzo
                                     </dt>
                                     <dd>
                                         <p>
-                                            <strong>Sed sed felis arcu, vel vehicula augue.</strong> Maecenas faucibus sagittis cursus. Fusce tincidunt, tellus eget tristique cursus, orci mi. iaculis sem, sit amet dictum velit velit eu magna. Nunc viverra nisi sed orci. 
+                                            <strong>Valor Personal.</strong> Sabemos que cada persona tiene un esfuerzo diferente, y en nuestro cuadro de honor los reconocemos periodicamente. 
                                         </p>
                                         <div class="alignright">
-                                            <a href="#" class="link">read more</a>
+                                            <a href="#" class="link">ver más</a>
                                         </div>
                                     </dd>
                                 </dl>
@@ -155,7 +155,7 @@
         	<div class="grid_24 aside-bg">
             	<div class="wrapper">
                 	<article class="grid_22 suffix_1 prefix_1 alpha omega">
-                    	<h2>Featured service:</h2>
+                    	<h2>Ventajas:</h2>
                         <div class="grid_15 alpha">
 							<figure class="img-indent">
                             	<img src="images/page3-img1.jpg" alt="">
