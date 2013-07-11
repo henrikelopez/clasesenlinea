@@ -3,7 +3,7 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Nosotros extends CI_Controller {
+class Contacto extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -21,12 +21,12 @@ class Nosotros extends CI_Controller {
      * @see http://codeigniter.com/user_guide/general/urls.html
      */
     public function index() {
-        $datos['titulo'] = 'Clases en Línea - Nosotros';
+        $datos['titulo'] = 'Clases en Línea - Contacto';
         $datos['espectacular'] = 'no';
-        $datos['menu'] = 'nosotros';
+        $datos['menu'] = 'contacto';
         
         $this->load->view('header', $datos);
-        $this->load->view('nosotros');
+        $this->load->view('contacto');
         $this->load->view('footer');
     }
 
