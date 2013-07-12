@@ -45,7 +45,7 @@
             	<article class="grid_7 suffix_1 prefix_1 alpha">
                     <h2>Estamos en:</h2>
                     <div class="map-container img-box">
-                        <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                        <iframe width="300" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com.mx/maps?ie=UTF8&amp;ll=20.667963,-103.347874&amp;spn=0.140858,0.234318&amp;t=h&amp;z=13&amp;output=embed"></iframe><br /><small><a href="https://www.google.com.mx/maps?ie=UTF8&amp;ll=20.667963,-103.347874&amp;spn=0.140858,0.234318&amp;t=h&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
                     </div>
                     <strong class="str-4">Visitanos</strong>
                     <dl class="adress">
