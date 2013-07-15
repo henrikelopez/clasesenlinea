@@ -62,15 +62,15 @@
         <!-- Header -->
         <header>
             <script type="text/javascript"><!--
-                google_ad_client = "ca-pub-7196619288526425";
-                /* Clases en linea alargado index */
-                google_ad_slot = "3720467572";
+                google_ad_client = "ca-pub-5830654382485300";
+                /* Clasesenlinea_Moodle */
+                google_ad_slot = "4961738073";
                 google_ad_width = 970;
                 google_ad_height = 90;
                 //-->
             </script>
             <script type="text/javascript"
-                    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
             <div class="inner">
                 <h1 class="logo"><a href="inicio">Clases en Línea</a></h1>
