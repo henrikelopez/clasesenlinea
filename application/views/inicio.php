@@ -6,7 +6,8 @@
                         	<span class="dropcap color-1">A.</span>
                             <div class="extra-wrap">
                             	<strong class="str-1 color-1">
-                                	Recursos <br>Nosotros le proveemos el recurso necesario para comenzar a gestionar sus clases en línea.
+                                	Recursos <br>
+                                	Nosotros te regalamos y te ayudamos a configurar una fantástica herramienta para llevar tus clases a la web.
                                 </strong>
                                 <a href="#" class="link">ver más</a>
                             </div>
@@ -16,7 +17,8 @@
                     	<span class="dropcap color-2">B.</span>
                             <div class="extra-wrap">
                             <strong class="str-1 color-2">
-                                Maestros <br>Proveemos el recurso mas utilizado y conocido en este ambiente, es decir moodle, cualquier duda o sugerecia estamos a sus ordenes. 
+                                Maestros <br>
+                                Tenemos para ti la mejor y más popular opción para que puedas ayudar y trabajar de manera más efectiva con tus alumnos, conoce &quot;Moodle&quot;. 
                             </strong>
                             <a href="#" class="link">ver más</a>
                         </div>
@@ -25,7 +27,8 @@
                     	<span class="dropcap color-3">C.</span>
                         <div class="extra-wrap">
                             <strong class="str-1 color-3">
-                                Alumnos <br>Los mas beneficiados, este espacio :) queremos ofrecerles un servicio que exploten para su aprendizaje, sean bienvenidos. 
+                                Alumnos <br>
+                                Tenemos para ti alumno un servicio que te ayudará a explotar y mejorar tu aprendizaje, bienvenidos. 
                             </strong>
                             <a href="#" class="link">ver más</a>
                         </div>
@@ -34,7 +37,7 @@
                     	<span class="dropcap color-4">D.</span>
                         <div class="extra-wrap">
                             <strong class="str-1 color-4">
-                                Solicitar el recurso es totalmente gratuito, por el momento si lo requiere escribanos a contacto@clasesenlinea.mx
+                                Foros, chats, wiki, cuestionarios, subir y enviar documentos, totalmente gratuito, ¿quieres saber más? escribe a contacto@clasesenlinea.mx
                             </strong>
                             <a href="#" class="link">ver más</a>
                         </div>
@@ -45,7 +48,7 @@
             	<article class="grid_15 suffix_1 prefix_1 alpha">
                 	<h2>Bienvenidos a clase!</h2>
                     <p>
-                    	Clases en Línea, es un recurso gratuito para organizaciones educativas o docentes de cualquier nivel académico que deseen gestionar actividades educativas en línea con sus alumnos. 
+                    	Clases en Línea te provee de un montón de recursos gratuitos diseñados para organizaciones educativas o docentes de cualquier nivel académico que deseen mejorar y administrar actividades educativas en línea con sus alumnos. 
                     </p>
                     <div class="wrapper">
                     	<div class="grid_5 alpha">
@@ -137,11 +140,10 @@
                     	<h4 class="pad-1">Testimonios:</h4>
                         <blockquote class="quote">
                         	<div class="inner">
-                            	...próximamente, aún que si quieres ser el primero :D escribe a contacto@clasesenlinea.mx
-                            </div>
+                            	...gracias a Clasesenlinea.mx he mejorado la relación con mis alumnos y tengo un gran control de mis actividades con ellos.</div>
                         </blockquote>
                         <div class="author alignright pad-2">
-                        	Yo <span>( el productor )</span>
+                        	Olimpo<span></span>
                         </div>
                     </article>
                 </div>
