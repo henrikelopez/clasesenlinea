@@ -59,7 +59,7 @@
     </head>
     <!--<body id="page1">-->
     <body>
-    <div style="float:left; position:fixed; background-color:#CCC; width:120px; height:600px; top:15%; z-index:9800 !important;">
+    <div style="float:left; position:fixed; background-color:#CCC; width:120px; height:600px; top:8%; z-index:9800 !important;">
         <script type="text/javascript"><!--
 
 google_ad_client = "ca-pub-5830654382485300";
