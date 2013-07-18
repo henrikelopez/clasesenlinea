@@ -6,7 +6,7 @@
         <li><a href="https://delicious.com/jius/search?p=clases"><img src="images/social-link-3.jpg" alt=""></a></li>
     </ul>
  </footer>
-    <div style="margin:auto; width:970px; height:90px; padding-top:30px;>
+    <div style="margin:auto; width:970px; height:90px; padding-top:30px;">
     <script type="text/javascript"><!--
 
 		google_ad_client = "ca-pub-5830654382485300";
